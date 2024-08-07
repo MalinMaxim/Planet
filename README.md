@@ -5,7 +5,7 @@
 - SCSS,
 - JS
 
-[Смотреть демо](https://malinmaxim.github.io/Burger/)
+[Смотреть демо](https://malinmaxim.github.io/Planet/)
 
 
 ![preview img](/preview.png)
